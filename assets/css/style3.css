@@ -1,0 +1,33 @@
+body {
+    background-color: lightpink;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.mainCard { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20px;
+}
+
+select {
+    width: 50px;
+    height: 40px;
+    border-radius: 5px;
+    border-color: plum;
+    box-shadow: 5px 5px 5px  lightcoral;
+}
+
+button {
+    margin-top: 20px;
+    background-color: plum;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px lightcoral;
+    border-color: plum;
+}
+
+.respuesta {
+    padding-top: 20px;
+}
